@@ -1,3 +1,7 @@
+**A quick note before starting:** This is your first GitHub assignment of the semester! **It is simply pass-fail**, and the mark will be included as a part of your first module regardless of the level of Computer Science you are taking. 
+
+At any point you can ask for help with this assignment, as it is intended to help you learn the ins and outs of the process of working on and submitting assignments through GitHub.
+
 # Welcome to GitHub
 
 When you click a link to open a new GitHub assignment, it will take you to a GitHub **repository**. A repository is a collection of files (usually code files) that have been added to GitHub. Repositories also track changes over time. 
